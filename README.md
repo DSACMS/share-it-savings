@@ -128,9 +128,6 @@ The following dependencies are needed to run the script. They are listed in `req
     matplotlib>=3.7.1
     numpy>=1.24.3
 
-## Contributing
-Contributions are welcome! Please feel free to submit Issues and/or Pull Requests: https://github.cms.gov/ospo/shareitsavings
-
 ## Policies
 
 ### Open Source Policy
