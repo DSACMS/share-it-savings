@@ -12,12 +12,12 @@ A list of core team members responsible for the code and documentation in this r
 
 ### PROCESSES & TOOLING
 
-| Resource | URL |
-|----------|-----|
-| code.json Docs | https://github.com/DSACMS/gov-codejson |
-| code.json webform | https://dsacms.github.io/codejson-generator/ |
-| webform source | https://github.com/DSACMS/codejson-generator |
-| Automated code.json generator | https://github.com/DSACMS/automated-codejson-generator |
+| Resource                         | URL |
+|----------------------------------|-----|
+| code.json Docs                  | https://github.com/DSACMS/gov-codejson |
+| code.json webform               | https://dsacms.github.io/codejson-generator/ |
+| webform source                  | https://github.com/DSACMS/codejson-generator |
+| Automated code.json generator   | https://github.com/DSACMS/automated-codejson-generator |
 
 
 ### METHODOLOGY 
