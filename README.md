@@ -1,5 +1,4 @@
-
-![Graph showing SHARE IT ACT Savings from Metadata and Reuse](https://github.com/DSACMS/share-it-savings/blob/main/share-it-savings-banner.png?raw=true)
+[![Graph showing SHARE IT ACT Savings from Metadata and Reuse](https://github.com/DSACMS/share-it-savings/blob/main/share-it-savings-banner.png?raw=true)](https://dsacms.github.io/share-it-savings#methodology)
 
 # SHARE IT Act Cost Savings Estimation
 
