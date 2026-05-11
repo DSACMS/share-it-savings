@@ -1,6 +1,7 @@
-# SHARE IT Act Cost Savings Estimation
 
 ![Graph showing SHARE IT ACT Savings from Metadata and Reuse](https://github.com/DSACMS/share-it-savings/blob/main/share-it-savings-banner.png?raw=true)
+
+# SHARE IT Act Cost Savings Estimation
 
 Scripts for estimating time and cost savings from OSPO proposed implementation of the SHARE IT Act
 
