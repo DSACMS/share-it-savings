@@ -11,6 +11,7 @@ The CMS OSPO has created automated metadata generation processes and tooling for
 A list of core team members responsible for the code and documentation in this repository can be found in [COMMUNITY.md](COMMUNITY.md).
 
 ### PROCESSES & TOOLING
+
 | Resource | URL |
 |----------|-----|
 | code.json Docs | https://github.com/DSACMS/gov-codejson |
